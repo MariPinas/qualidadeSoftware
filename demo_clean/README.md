@@ -2,6 +2,7 @@
 
 **Disciplina:** Qualidade de Software  
 **Professor:** Anisio Silva  
+**Alunos:** Mariana Pereira e David Barbosa
 **E-mail:** [anisio.silva@ifsp.du.br](mailto:anisio.silva@ifsp.du.br)
 
 ---
@@ -76,3 +77,4 @@ O código foi propositalmente escrito de forma confusa para prática de **refato
     *   API REST
     *   Tratamento de exceções
     *   Uso de DTOs (Data Transfer Objects)
+
